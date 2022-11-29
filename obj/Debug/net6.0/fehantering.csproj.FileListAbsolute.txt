@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\GitHub\fehantering\bin\Debug\net6.0\fehantering.exe
+C:\Users\Admin\Documents\GitHub\fehantering\bin\Debug\net6.0\fehantering.deps.json
+C:\Users\Admin\Documents\GitHub\fehantering\bin\Debug\net6.0\fehantering.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\fehantering\bin\Debug\net6.0\fehantering.dll
+C:\Users\Admin\Documents\GitHub\fehantering\bin\Debug\net6.0\fehantering.pdb
+C:\Users\Admin\Documents\GitHub\fehantering\obj\Debug\net6.0\fehantering.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\fehantering\obj\Debug\net6.0\fehantering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\fehantering\obj\Debug\net6.0\fehantering.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\fehantering\obj\Debug\net6.0\fehantering.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\fehantering\obj\Debug\net6.0\fehantering.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\fehantering\obj\Debug\net6.0\fehantering.dll
+C:\Users\Admin\Documents\GitHub\fehantering\obj\Debug\net6.0\refint\fehantering.dll
+C:\Users\Admin\Documents\GitHub\fehantering\obj\Debug\net6.0\fehantering.pdb
+C:\Users\Admin\Documents\GitHub\fehantering\obj\Debug\net6.0\fehantering.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\fehantering\obj\Debug\net6.0\ref\fehantering.dll
