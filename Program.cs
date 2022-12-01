@@ -12,9 +12,10 @@ Console.WriteLine("skriv in en siffra");
             return true;
          }
          catch (System.Exception)
-         {
-            return false;
+         { 
+            throw;
          }
-        }
+ }
+ 
 }
 
